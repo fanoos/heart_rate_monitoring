@@ -1,3 +1,37 @@
 <resources>
     <string name="app_name">Doc Hero Heart Rate Monitoring</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!-- String related to Bluetooth Use -->
+    <string name="ble_not_supported">BLE is not supported</string>
+    <string name="label_data">HB/M</string>
+    <string name="label_device_address">Device address:</string>
+    <string name="label_state">State</string>
+    <string name="no_data">No data</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="title_devices">BLE Device Scan</string>
+    <string name="error_bluetooth_not_supported">Bluetooth not supported.</string>
+
+    <string name="unknown_device">Unknown device</string>
+    <string name="unknown_characteristic">Unknown characteristic</string>
+    <string name="unknown_service">Unknown service</string>
+
+    <!-- Menu items -->
+    <string name="menu_connect">Connect</string>
+    <string name="menu_disconnect">Disconnect</string>
+    <string name="menu_scan">Scan</string>
+    <string name="menu_stop">Stop</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="title_activity_starting_page">StartingPage</string>
+    <string name="description">Discription</string>
+    <string name="title_activity_list_of_analyzes">ListOfAnalyzes</string>
+    <string name="title_activity_user_profile">Profile</string>
+    <string name="title_activity_heartrate_monitor">"Heart Rate Monitor "</string>
+    <string name="title_activity_monitor_night">Monitor Heart Rate at Night</string>
+
+    <string name="stop_alarm">Stop Heart Rate Alarm</string>
+    <string name="title_activity_main2">Main2Activity</string>
 </resources>

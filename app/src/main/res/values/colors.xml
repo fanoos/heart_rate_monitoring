@@ -2,5 +2,45 @@
 <resources>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="colorBackDocHero">#1ca6fc</color>
+    <color name="colorBackDocHeroChild">#12e462</color>
+    <color name="colorBackDocHeroLogin">#fda416</color>
+    <color name="txtAnimate">#ffffff</color>
+    <color name="colorBackDocHeroChildMenu">#09c450</color>
+
+    <color name="crimson">#DC143C</color>
+    <color name="violetred1">#FF3E96</color>
+    <color name="deeppink">#FF1493</color>
+    <color name="magenta2">#EE00EE</color>
+    <color name="magenta3">#CD00CD</color>
+    <color name="purple1">#9B30FF</color>
+    <color name="purple2">#912CEE</color>
+    <color name="purple3">#7D26CD</color>
+    <color name="purple4">#551A8B</color>
+    <color name="dodgerblue2">#1C86EE</color>
+    <color name="dodgerblue3">#1874CD</color>
+    <color name="deepskyblue2">#00B2EE</color>
+    <color name="deepskyblue3">#009ACD</color>
+    <color name="turquoise2">#00E5EE</color>
+    <color name="turquoise3">#00C5CD</color>
+    <color name="springgreen1">#00EE76</color>
+    <color name="springgreen2">#00CD66</color>
+    <color name="springgreen3">#008B45</color>
+    <color name="mediumseagreen">#3CB371</color>
+    <color name="green2">#00EE00</color>
+    <color name="green3">#00CD00</color>
+    <color name="yellow1">#FFFF00</color>
+    <color name="yellow2">#EEEE00</color>
+    <color name="gold1">#FFD700</color>
+    <color name="gold2">#EEC900</color>
+    <color name="goldenrod1">#FFC125</color>
+    <color name="orange1">#FFA500</color>
+    <color name="cadmiumyellow">#FF9912</color>
+    <color name="darkorange1">#fda416</color>
+    <color name="darkorange2">#EE7600</color>
+    <color name="darkorange3">#CD6600</color>
+
+
+
 </resources>

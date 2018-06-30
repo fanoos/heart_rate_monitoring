@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "211920794287",
+    "firebase_url": "https://heart-rate-8e44c.firebaseio.com",
+    "project_id": "heart-rate-8e44c",
+    "storage_bucket": "heart-rate-8e44c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211920794287:android:565eb6c7502aa4a7",
+        "android_client_info": {
+          "package_name": "com.monitorin.hero.doc.docheroheartratemonitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211920794287-kl8ukr6jgi56rhbha0nlea22nvkhhamj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.monitorin.hero.doc.docheroheartratemonitoring",
+            "certificate_hash": "ceb11720b2d4fffd1d721e85ad7f512c12ab3a5c"
+          }
+        },
+        {
+          "client_id": "211920794287-c384viivmvbveojvp1o0nro109l7bqfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1JF9wEtfit5e9M0MA0Q6yRdYSLuzQEdM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211920794287-c384viivmvbveojvp1o0nro109l7bqfm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
